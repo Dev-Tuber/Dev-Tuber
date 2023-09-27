@@ -12,6 +12,4 @@
 ### Stats
 ![Dev-Tuber's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tuber)]
 ***
-### CloudXen CEO
-### XCP-NG 가상화
-### HTML은 엄연히 코딩 언어 입니다.
+### 프론트엔드 배우는 중
