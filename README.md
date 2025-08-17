@@ -1,42 +1,54 @@
-Hi 👋 My name is SeungHoon
-=================================================================================================================================
+# 👋 Hi, I'm SeungHoon
 
-Web Developer & Designer
-------------------------
+🌐 **Front-End Developer** | 💡 **UI/UX Enthusiast** | ⚡ **Problem Solver**
 
-I starting coding with Appinventor when i was in elementary school, and made many progress with my coding skills.
+---
 
-* 🌍  I'm based in South Korea, Yongin
-* 🖥️  See my portfolio at [MyPortfolio](http://seung-hoon.dev)
-* ✉️  You can contact me at [contact.seung-hoon.dev](mailto:contact.seung-hoon.dev)
-* 🚀  I'm currently working on [DATASTAC](http://flowproxy.net)
-* 🧠  I'm learning Next.js and React
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I like to study Networks as well
+## ✨ About Me
+- 🎨 사용자 친화적이고 직관적인 UI/UX 설계에 관심이 많습니다.  
+- ⚛️ React, Next.js, Tailwind CSS를 활용한 모던 프론트엔드 개발을 주로 합니다.  
+- 🚀 성능 최적화와 반응형 웹 구현을 통해 더 나은 사용자 경험을 제공합니다.  
+- 📚 꾸준히 새로운 기술을 학습하고, 공유하며 성장하고 있습니다.  
 
-<a href="https://www.github.com/Dev-Tuber" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dev-Tuber?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+---
 
-### Skills
+## 🛠️ Tech Stack
+<div align="center">
 
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)  
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://discord.com/users/tuber._." target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Dev-Tuber" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## 📊 GitHub Stats
+<div align="center">
 
-<a href="https://github.com/Dev-Tuber" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Tuber&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-tuber&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-tuber&layout=compact&theme=tokyonight)
 
-### Support Me
+</div>
 
-<ul style="list-style-type: none; margin: 0;">
+---
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/devtuber"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+## 📫 Contact Me
+- 📧 Email: info@gnp2026.kr  
+- 💼 Portfolio:
+DeepFakeMap Service(2024)
+DATASTEC CLOUD HOSTING(2021~2025)
 
-</ul>
+---
+
+✨ *“코드는 단순히 동작하는 것 이상으로, 사람에게 읽히고 경험으로 기억되는 것이라 생각합니다.”*  
